@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "id": "79",
+      "name": "Ginger Johnson",
+      "description": "Consequatur Sequi e",
+      "image": "Nihil et qui distinc",
+      "time": "04:15",
+      "date": "1998-06-23",
+      "address": "Quia dolore amet te",
+      "price": "505",
+      "pricing_type": "paid"
+    },
+    {
+      "id": "62",
+      "name": "Linda Graham",
+      "description": "Aliquid dolores quia",
+      "image": "Quia explicabo Volu",
+      "time": "15:04",
+      "date": "1972-12-10",
+      "address": "Cum quis nisi duis d",
+      "price": "23",
+      "pricing_type": "free"
+    },
+    {
+      "id": "83",
+      "name": "Debra Head",
+      "description": "Aut ipsa itaque ali",
+      "image": "In laboris laboris t",
+      "time": "17:34",
+      "date": "1994-02-07",
+      "address": "Voluptatem ratione a",
+      "price": "823",
+      "pricing_type": "free"
+    }
+  ],
+  "booking": [
+    {
+      "id": "5aba",
+      "email": "nicar@mailinator.com",
+      "name": "Ciaran Lancaster",
+      "quantity": 2,
+      "mobile": "In dicta autem liber",
+      "address": "Quasi voluptatem off",
+      "price": 0
+    },
+    {
+      "id": "49a9",
+      "email": "juno@mailinator.com",
+      "name": "Erasmus Camacho",
+      "quantity": 2,
+      "mobile": "Sed inventore natus ",
+      "address": "Magnam sed iure quia",
+      "price": 200
+    },
+    {
+      "id": "97d9",
+      "email": "juno@mailinator.com",
+      "name": "Erasmus Camacho",
+      "quantity": 2,
+      "mobile": "Sed inventore natus ",
+      "address": "Magnam sed iure quia",
+      "price": 200
+    },
+    {
+      "id": "ff0b",
+      "email": "tydymuxu@mailinator.com",
+      "name": "Madaline Daniel",
+      "quantity": 0,
+      "mobile": "Et consequat Dolore",
+      "address": "Provident repudiand",
+      "price": 0
+    },
+    {
+      "id": "127f",
+      "email": "nimubu@mailinator.com",
+      "name": "April Barry",
+      "quantity": 2,
+      "mobile": "Praesentium minus po",
+      "address": "Placeat aute id pro",
+      "price": 200
+    },
+    {
+      "id": "c9a8",
+      "email": "saty@mailinator.com",
+      "name": "Hop Calderon",
+      "quantity": 2,
+      "mobile": "Sint laborum Quidem",
+      "address": "Nihil qui qui dolor ",
+      "price": 200,
+      "eventId": null
+    },
+    {
+      "id": "7557",
+      "email": "ziqykof@mailinator.com",
+      "name": "Heidi Malone",
+      "quantity": 0,
+      "mobile": "Aliqua Reprehenderi",
+      "address": "Lorem nulla in aute ",
+      "price": 0,
+      "eventId": "79"
+    }
+  ]
+}
